@@ -1,0 +1,23 @@
+<%= turbo_stream_from :article %>
+<%= turbo_frame_tag "remote_modal" %>
+
+<main class="mb-4">
+   <%= render @article %>
+  <% if can? :manage, @article %>
+  <%= render partial: "show_actions"%>
+  <% end %>
+</main>
+<h4>Comments</h4>
+<%if current_user %>
+   <%= turbo_stream_from @article, :comments %>
+   <%= content_tag :div, id: "#{dom_id(@article)}_comments" do %>
+      <%= render @article.comments %>
+   <% end %>
+   <% if can? :create, Comment %> 
+      <%= render 'comments/form', comment: Comment.new %>
+   <% end %>
+<% else %>
+   <% @article.comments.each do |comment| %>
+      <%= render :partial => 'comments/view_comment', :locals => { :comment => comment } %>
+   <% end %>
+<% end %>

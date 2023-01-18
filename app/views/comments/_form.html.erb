@@ -1,0 +1,16 @@
+<%= form_with(model: comment, url: [@article, comment], local: false, id: "new-comment-form") do |form| %>
+  <div class="mb-3">
+      <%= form.text_area :body, class: 'form-control' %>
+    </div>
+
+  <div class="mb-3">
+    <% if comment.persisted? %>
+      <div class="float-end">
+        <%= link_to 'Destroy', comment, method: :delete, class: "text-danger", data: { confirm: 'Are you sure?' } %>
+      </div>
+    <% end %>
+
+    <%= form.submit class: 'btn btn-primary' %>
+
+  </div>
+<% end %>
