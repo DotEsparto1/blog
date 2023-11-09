@@ -54,8 +54,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/blog](https://github.com/DotEsparto1/blog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|01/18/23<br/>Last commit date|
-|------|------|------|------|
+|39<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
@@ -265,30 +265,30 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[active_model_serializers](https://rubygems.org/active_model_serializers)|v0.10.13|N/A|N/A |MIT|N/A|
-|[cancancan](https://rubygems.org/cancancan)|v3.3.0|N/A|N/A |MIT|N/A|
-|[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|N/A|N/A |MIT|N/A|
-|[faker](https://rubygems.org/faker)|v2.20.0|N/A|N/A |MIT|N/A|
-|[jbuilder](https://rubygems.org/jbuilder)|v2.11.5|N/A|N/A |MIT|N/A|
-|[pg](https://rubygems.org/pg)|v1.4.3|N/A|N/A |BSD-2-Clause|N/A|
-|[rails-controller-testing](https://rubygems.org/rails-controller-testing)|v1.0.5|N/A|N/A |MIT|N/A|
-|[responders](https://rubygems.org/responders)|v3.0.1|N/A|N/A |MIT|N/A|
-|[rspec-rails](https://rubygems.org/rspec-rails)|v5.1.1|N/A|N/A |MIT|N/A|
-|[rubocop-performance](https://rubygems.org/rubocop-performance)|v1.13.3|N/A|N/A |MIT|N/A|
-|[rubocop-rails](https://rubygems.org/rubocop-rails)|v2.14.2|N/A|N/A |MIT|N/A|
-|[rubocop-rspec](https://rubygems.org/rubocop-rspec)|v2.9.0|N/A|N/A |MIT|N/A|
-|[sassc-rails](https://rubygems.org/sassc-rails)|v2.1.2|N/A|N/A |MIT|N/A|
-|[simplecov](https://rubygems.org/simplecov)|v0.21.2|N/A|N/A |MIT|N/A|
-|[sprockets-rails](https://rubygems.org/sprockets-rails)|v3.4.2|N/A|N/A |MIT|N/A|
-|[webdrivers](https://rubygems.org/webdrivers)|v3.9.4|N/A|N/A |MIT|N/A|
-|[webmock](https://rubygems.org/webmock)|v3.14.0|N/A|N/A |MIT|N/A|
+|[active_model_serializers](https://rubygems.org/active_model_serializers)|v0.10.13|01/18/23|Emmanu Varghese |MIT|N/A|
+|[cancancan](https://rubygems.org/cancancan)|v3.3.0|01/18/23|Emmanu Varghese |MIT|N/A|
+|[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|01/18/23|Emmanu Varghese |MIT|N/A|
+|[faker](https://rubygems.org/faker)|v2.20.0|01/18/23|Emmanu Varghese |MIT|N/A|
+|[jbuilder](https://rubygems.org/jbuilder)|v2.11.5|01/18/23|Emmanu Varghese |MIT|N/A|
+|[pg](https://rubygems.org/pg)|v1.4.3|01/18/23|Emmanu Varghese |BSD-2-Clause|N/A|
+|[rails-controller-testing](https://rubygems.org/rails-controller-testing)|v1.0.5|01/18/23|Emmanu Varghese |MIT|N/A|
+|[responders](https://rubygems.org/responders)|v3.0.1|01/18/23|Emmanu Varghese |MIT|N/A|
+|[rspec-rails](https://rubygems.org/rspec-rails)|v5.1.1|01/18/23|Emmanu Varghese |MIT|N/A|
+|[rubocop-performance](https://rubygems.org/rubocop-performance)|v1.13.3|01/18/23|Emmanu Varghese |MIT|N/A|
+|[rubocop-rails](https://rubygems.org/rubocop-rails)|v2.14.2|01/18/23|Emmanu Varghese |MIT|N/A|
+|[rubocop-rspec](https://rubygems.org/rubocop-rspec)|v2.9.0|01/18/23|Emmanu Varghese |MIT|N/A|
+|[sassc-rails](https://rubygems.org/sassc-rails)|v2.1.2|01/18/23|Emmanu Varghese |MIT|N/A|
+|[simplecov](https://rubygems.org/simplecov)|v0.21.2|01/18/23|Emmanu Varghese |MIT|N/A|
+|[sprockets-rails](https://rubygems.org/sprockets-rails)|v3.4.2|01/18/23|Emmanu Varghese |MIT|N/A|
+|[webdrivers](https://rubygems.org/webdrivers)|v3.9.4|01/18/23|Emmanu Varghese |MIT|N/A|
+|[webmock](https://rubygems.org/webmock)|v3.14.0|01/18/23|Emmanu Varghese |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[sass](https://www.npmjs.com/sass)|v1.49.9|N/A|N/A |MIT|N/A|
+|[sass](https://www.npmjs.com/sass)|v1.49.9|01/18/23|Emmanu Varghese |MIT|N/A|
 
 <br/>
 <div align='center'>
