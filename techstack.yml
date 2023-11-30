@@ -1,7 +1,7 @@
 repo_name: DotEsparto1/blog
-report_id: 5213d1588b0356fce4b6405ea5e5de93
+report_id: 26cffdd70c1f3fb477636c663221889e
 repo_type: Public
-timestamp: '2023-11-24T11:48:53+00:00'
+timestamp: '2023-11-30T11:11:56+00:00'
 requested_by: Emmanu-Varghese
 provider: github
 branch: master
@@ -27,10 +27,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
-  detection_source_url: Gemfile.lock
-  detection_source: Gemfile.lock
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -52,10 +50,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: yarn.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Rails
   description: Web development that doesn't hurt
   website_url: http://rubyonrails.org/
@@ -66,10 +62,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/990/x57_Lorv.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: jQuery
   description: The Write Less, Do More, JavaScript Library.
   website_url: http://jquery.com/
@@ -80,10 +74,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: PostgreSQL
   description: A powerful, open source object-relational database system
   website_url: http://www.postgresql.org/
@@ -93,8 +85,6 @@ tools:
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Redis
   description: Open source (BSD licensed), in-memory data structure store
   website_url: http://redis.io/
@@ -105,10 +95,8 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Sidekiq
   description: Simple, efficient background processing for Ruby
   website_url: http://sidekiq.org/
@@ -118,10 +106,8 @@ tools:
   category: Data Stores
   sub_category: Background Processing
   image_url: https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Brakeman
   description: A static analysis security vulnerability scanner for Ruby on Rails
     applications
@@ -132,10 +118,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/6577/7b894961369b7c73e2a32f11f845e049_400x400.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -155,9 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source: config/secrets.yml
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
+  detection_source: config/database.yml
 - name: Puma
   description: A Modern, Concurrent Web Server for Ruby
   website_url: http://puma.io/
@@ -168,10 +150,8 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1055/favicon.png
-  detection_source_url: Gemfile.lock
-  detection_source: config/puma.rb
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source: Gemfile
 - name: RSpec
   description: Behaviour Driven Development for Ruby
   website_url: https://rspec.info/
@@ -182,10 +162,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: RuboCop
   description: A Ruby static code analyzer, based on the community Ruby style guide
   website_url: http://batsov.com/rubocop/
@@ -196,10 +174,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
   website_url: https://rubygems.org/
@@ -209,8 +185,6 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Yarn
   description: A new package manager for JavaScript
   website_url: https://yarnpkg.com/
@@ -220,8 +194,6 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
   detection_source: yarn.lock
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -231,8 +203,6 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Twilio SendGrid
   description: Email Delivery. Simplified.
   website_url: http://sendgrid.com
@@ -242,8 +212,6 @@ tools:
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
   detection_source: config/environments/production.rb
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Bootsnap
   description: Boot large ruby/rails apps faster, by Shopify
   website_url: https://github.com/shopify/bootsnap
@@ -254,10 +222,8 @@ tools:
   category: Application Utilities
   sub_category: Ruby Utilities
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: Devise
   description: Flexible authentication solution for Rails with Warden
   website_url: https://github.com/plataformatec/devise
@@ -268,10 +234,8 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/1432/devise.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: active_model_serializers
   description: ActiveModel::Serializers allows you to generate your JSON in an object-oriented
     and convention-driven manner
@@ -283,10 +247,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19092/default_7d8fff827ba2485899e223ac4fb9773463ea4acd.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: cancancan
   description: Simple authorization solution for Rails
   package_url: https://rubygems.org/cancancan
@@ -297,10 +259,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19191/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: factory_bot_rails
   description: Factory_bot_rails provides integration between factory_bot and rails
     4.2 or newer
@@ -312,10 +272,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19040/default_6307a3eb8ac1c7d425b9163e046ba444d20d3abd.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: faker
   description: Faker
   package_url: https://rubygems.org/faker
@@ -326,10 +284,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18897/default_31c6044490fb5c1bec1388b8ceb466b6ac78ae92.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: jbuilder
   description: Create JSON structures via a Builder-style DSL
   package_url: https://rubygems.org/jbuilder
@@ -340,10 +296,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: pg
   description: Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]
   package_url: https://rubygems.org/pg
@@ -354,10 +308,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: rails-controller-testing
   description: Extracting `assigns` and `assert_template` from ActionDispatch
   package_url: https://rubygems.org/rails-controller-testing
@@ -368,10 +320,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19298/default_665ed3fcb2a1ba0439337b543b18095155087d89.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: responders
   description: A set of Rails responders to dry up your application
   package_url: https://rubygems.org/responders
@@ -382,10 +332,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19109/default_c404399f249c45bc71a2c704a4b9bc234dcaac3e.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: rspec-rails
   description: Rspec-rails is a testing framework for Rails 3+
   package_url: https://rubygems.org/rspec-rails
@@ -396,10 +344,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18830/default_ba8d7756589e5fc0164687950e3f091b32554546.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: rubocop-performance
   description: A collection of RuboCop cops to check for performance optimizations
     in Ruby code
@@ -411,10 +357,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19003/default_ed0106f3a65a9fdb4ffde124a531663be2de70ba.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: rubocop-rails
   description: Automatic Rails code style checking tool
   package_url: https://rubygems.org/rubocop-rails
@@ -425,10 +369,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19270/default_67289672b0f514dd92f3c786eb2cf0a39b0db10f.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: rubocop-rspec
   description: Code style checking for RSpec files
   package_url: https://rubygems.org/rubocop-rspec
@@ -439,10 +381,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18892/default_b7088ec778267614a78a5a472c67252ec1721d10.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: sassc-rails
   description: Integrate SassC-Ruby into Rails
   package_url: https://rubygems.org/sassc-rails
@@ -453,10 +393,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19508/default_e4388de496824e0638763f2d5c887a8895c2ceb4.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: simplecov
   description: Code coverage for Ruby 1.9+ with a powerful configuration library and
     automatic merging of coverage across test suites
@@ -468,10 +406,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18819/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: sprockets-rails
   description: Sprockets Rails integration
   package_url: https://rubygems.org/sprockets-rails
@@ -482,10 +418,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19198/default_be4b4d308c5637e0747ed40c613027452d6ef0c5.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: webdrivers
   description: Run Selenium tests more easily with install and updates for all supported
     webdrivers
@@ -497,10 +431,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19420/default_16904f646648128b821ee8aabb068fa7a1b5025f.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: webmock
   description: WebMock allows stubbing HTTP requests and setting expectations on HTTP
     requests
@@ -512,10 +444,8 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18824/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
 - name: sass
   description: A pure JavaScript implementation of Sass
   package_url: https://www.npmjs.com/sass
@@ -526,7 +456,5 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: package.json
-  last_updated_by: Emmanu Varghese
-  last_updated_on: 2023-01-18 12:09:23.000000000 Z
