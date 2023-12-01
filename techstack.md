@@ -12,6 +12,7 @@ DotEsparto1/blog is built on the following main stack:
 - [Puma](http://puma.io/) – Web Servers
 - [Sidekiq](http://sidekiq.org/) – Background Processing
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
 - [RSpec](https://rspec.info/) – Testing Frameworks
@@ -39,6 +40,7 @@ DotEsparto1/blog is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'/> [Sidekiq](http://sidekiq.org/) – Background Processing
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1432/devise.png' alt='Devise'/> [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
@@ -58,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/blog](https://github.com/DotEsparto1/blog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|11/30/23 <br/>Report generated|
+|39<br/>Tools used|12/01/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -91,7 +93,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (3)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'>
@@ -107,6 +109,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="http://rubyonrails.org/">Rails</a></sub>
   <br>
   <sub>v7.0.2</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'>
+  <br>
+  <sub><a href="http://sass-lang.com/">Sass</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -263,7 +273,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (17)
 
@@ -286,13 +296,6 @@ Full tech stack [here](/techstack.md)
 |[sprockets-rails](https://rubygems.org/sprockets-rails)|v3.4.2|N/A|N/A |MIT|N/A|
 |[webdrivers](https://rubygems.org/webdrivers)|v3.9.4|N/A|N/A |MIT|N/A|
 |[webmock](https://rubygems.org/webmock)|v3.14.0|N/A|N/A |MIT|N/A|
-
-
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (1)
-
-|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
-|:------|:------|:------|:------|:------|:------|
-|[sass](https://www.npmjs.com/sass)|v1.49.9|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
