@@ -1,7 +1,7 @@
 repo_name: DotEsparto1/blog
-report_id: decbd3eceabd97cc95dc6232e7c09128
+report_id: 4281bf892c10f4ad3f01418995090dc1
 repo_type: Public
-timestamp: '2023-11-30T11:24:29+00:00'
+timestamp: '2023-12-01T14:30:19+00:00'
 requested_by: Emmanu-Varghese
 provider: github
 branch: master
@@ -64,6 +64,16 @@ tools:
   image_url: https://img.stackshare.io/service/990/x57_Lorv.png
   detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source: package.json
 - name: jQuery
   description: The Write Less, Do More, JavaScript Library.
   website_url: http://jquery.com/
@@ -446,15 +456,3 @@ tools:
   image_url: https://img.stackshare.io/package/18824/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
   detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
-- name: sass
-  description: A pure JavaScript implementation of Sass
-  package_url: https://www.npmjs.com/sass
-  version: 1.49.9
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
-  detection_source: package.json
