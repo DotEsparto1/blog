@@ -1,7 +1,8 @@
 repo_name: DotEsparto1/blog
-report_id: 77c0a106e7241b65dd3596b8b3c0778c
+report_id: 39c9e4c9c2c8c402314921013fdea9bd
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-11T15:26:37+00:00'
+timestamp: '2024-01-02T13:36:53+00:00'
 requested_by: Emmanu-Varghese
 provider: github
 branch: master
@@ -27,7 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Repo Metadata
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -52,7 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -66,7 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/990/x57_Lorv.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -92,7 +93,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/yarn.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -117,7 +118,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -130,7 +131,7 @@ tools:
   category: Data Stores
   sub_category: Background Processing
   image_url: https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -144,7 +145,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/6577/7b894961369b7c73e2a32f11f845e049_400x400.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -180,7 +181,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1055/favicon.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -194,7 +195,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -208,7 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -266,7 +267,7 @@ tools:
   category: Application Utilities
   sub_category: Ruby Utilities
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -280,7 +281,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/1432/devise.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -295,7 +296,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19092/default_7d8fff827ba2485899e223ac4fb9773463ea4acd.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -309,7 +310,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19191/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -324,7 +325,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19040/default_6307a3eb8ac1c7d425b9163e046ba444d20d3abd.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -338,7 +339,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18897/default_31c6044490fb5c1bec1388b8ceb466b6ac78ae92.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -352,7 +353,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -366,7 +367,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -380,7 +381,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19298/default_665ed3fcb2a1ba0439337b543b18095155087d89.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -394,7 +395,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19109/default_c404399f249c45bc71a2c704a4b9bc234dcaac3e.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -408,7 +409,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18830/default_ba8d7756589e5fc0164687950e3f091b32554546.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -423,7 +424,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19003/default_ed0106f3a65a9fdb4ffde124a531663be2de70ba.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -437,7 +438,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19270/default_67289672b0f514dd92f3c786eb2cf0a39b0db10f.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -451,7 +452,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18892/default_b7088ec778267614a78a5a472c67252ec1721d10.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -465,7 +466,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19508/default_e4388de496824e0638763f2d5c887a8895c2ceb4.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -480,7 +481,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18819/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -494,7 +495,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19198/default_be4b4d308c5637e0747ed40c613027452d6ef0c5.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -509,7 +510,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19420/default_16904f646648128b821ee8aabb068fa7a1b5025f.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -524,7 +525,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18824/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: github.com/DotEsparto1/blog/blob/master/Gemfile.lock
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
