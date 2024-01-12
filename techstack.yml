@@ -1,8 +1,8 @@
 repo_name: DotEsparto1/blog
-report_id: c46d8ddf2854a4224986abf4d0fc85d4
+report_id: dc4f7a017bb204ff5ee2287260d498ee
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:43:17+00:00'
+timestamp: '2024-01-12T12:14:07+00:00'
 requested_by: Emmanu-Varghese
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DotEsparto1/blog
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -41,6 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DotEsparto1/blog
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -80,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/package.json
   detection_source: package.json
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -105,6 +108,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -157,6 +161,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DotEsparto1/blog
   detection_source: Repo Metadata
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
@@ -168,6 +173,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/config/database.yml
   detection_source: config/database.yml
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -221,6 +227,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -232,6 +239,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -243,6 +251,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/package.json
   detection_source: package.json
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
@@ -254,6 +263,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/DotEsparto1/blog/blob/master/config/environments/production.rb
   detection_source: config/environments/production.rb
   last_updated_by: Emmanu Varghese
   last_updated_on: 2023-01-18 12:09:23.000000000 Z
