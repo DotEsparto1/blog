@@ -5,7 +5,6 @@ DotEsparto1/blog is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -14,7 +13,7 @@ DotEsparto1/blog is built on the following main stack:
 - [Redis](http://redis.io/) – In-Memory Databases
 - [Sidekiq](http://sidekiq.org/) – Background Processing
 - [Brakeman](http://brakemanscanner.org/) – Code Review
-- [Istio](https://istio.io/) – Microservices Tools
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
 - [Puma](http://puma.io/) – Web Servers
 - [RSpec](https://rspec.info/) – Testing Frameworks
 - [RuboCop](http://batsov.com/rubocop/) – Code Review
@@ -22,6 +21,7 @@ DotEsparto1/blog is built on the following main stack:
 - [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -33,7 +33,6 @@ DotEsparto1/blog is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -42,7 +41,7 @@ DotEsparto1/blog is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'/> [Sidekiq](http://sidekiq.org/) – Background Processing
 - <img width='25' height='25' src='https://img.stackshare.io/service/6577/7b894961369b7c73e2a32f11f845e049_400x400.png' alt='Brakeman'/> [Brakeman](http://brakemanscanner.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
@@ -50,6 +49,7 @@ DotEsparto1/blog is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
 - <img width='25' height='25' src='https://img.stackshare.io/service/1432/devise.png' alt='Devise'/> [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -60,11 +60,11 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/blog](https://github.com/DotEsparto1/blog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|03/15/24 <br/>Report generated|
+|40<br/>Tools used|03/15/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
@@ -80,14 +80,6 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
   <br>
   <sub>v3.0.1</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'>
-  <br>
-  <sub><a href="https://en.wikipedia.org/wiki/Shell_script">Shell</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 </tr>
@@ -170,17 +162,17 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'>
   <br>
-  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <sub><a href="https://esbuild.github.io/">Esbuild</a></sub>
   <br>
   <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
   <br>
-  <sub><a href="https://istio.io/">Istio</a></sub>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -251,7 +243,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'>
@@ -269,13 +261,21 @@ Full tech stack [here](/techstack.md)
   <sub>v4.8.1</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'>
+  <br>
+  <sub><a href="https://en.wikipedia.org/wiki/Shell_script">Shell</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (17)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (18)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -283,6 +283,7 @@ Full tech stack [here](/techstack.md)
 |[cancancan](https://rubygems.org/cancancan)|v3.3.0|01/18/23|Emmanu Varghese |MIT|N/A|
 |[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v6.2.0|01/18/23|Emmanu Varghese |MIT|N/A|
 |[faker](https://rubygems.org/faker)|v2.20.0|01/18/23|Emmanu Varghese |MIT|N/A|
+|[image_processing](https://rubygems.org/image_processing)|v1.12.2|01/18/23|Emmanu Varghese |MIT|N/A|
 |[jbuilder](https://rubygems.org/jbuilder)|v2.11.5|01/18/23|Emmanu Varghese |MIT|N/A|
 |[pg](https://rubygems.org/pg)|v1.4.3|01/18/23|Emmanu Varghese |BSD-2-Clause|N/A|
 |[rails-controller-testing](https://rubygems.org/rails-controller-testing)|v1.0.5|01/18/23|Emmanu Varghese |MIT|N/A|
